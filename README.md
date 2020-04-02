@@ -1,9 +1,10 @@
-# Simple vagrant php 7.2 setup
+# Simple vagrant php 7.2, MySQL setup
 
 ### Installed
 
 * Apache
 * PHP 7.2
+* MySQL (via MariaDB)
 * Based on **ubuntu/xenial64** setup
 
 ## Description
